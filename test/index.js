@@ -1,5 +1,5 @@
 import assert from 'assert';
-import catatonic-ucf from '../lib';
+import catatonicCircle from '../lib';
 
 /*describe('y', function () {
   it('should have unit test!', function () {
