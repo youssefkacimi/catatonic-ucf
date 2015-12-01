@@ -1,5 +1,5 @@
 import assert from 'assert';
-import y from '../lib';
+import catatonic-ucf from '../lib';
 
 /*describe('y', function () {
   it('should have unit test!', function () {
@@ -7,7 +7,7 @@ import y from '../lib';
   });
 });*/
 
-describe('catatonic-circle', function () {
+describe('catatonic-ucf', function () {
   it('should have a version number!', function () {
     assert(typeof catatonicCircle.VERSION !== 'undefined', 'The Project should have a VERSION, whatever the actual version.');
   });
